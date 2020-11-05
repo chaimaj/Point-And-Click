@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ReadImage.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlaceObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OnScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ComboScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SelectScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CamBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TakeScreenshot.cs" Line="45" Column="2" />
+      <File FileName="Assets\Scripts\ReadImage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
